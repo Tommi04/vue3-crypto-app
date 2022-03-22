@@ -10,9 +10,6 @@
     <el-menu-item index="1" style="width:96px; padding: 0">
       <router-link style="width:100%" to="/">Lista</router-link>
     </el-menu-item>
-    <el-menu-item index="2" style="width:96px; padding: 0">
-      <router-link style="width:100%" to="/crypto/4">Info</router-link>
-    </el-menu-item>
   </el-menu>
 
   <router-view/>
